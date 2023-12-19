@@ -1,4 +1,4 @@
-# Password-strength-classification
+# Password-strength-classifier
 
 ## About 
 A password strength classifier is essential for bolstering cybersecurity. With increasingly sophisticated cyber threats, enforcing robust password policies is paramount. This project helps users identify and enhance the resilience of their passwords, promoting secure online practices. By categorizing passwords into low, moderate, and high strengths, individuals and organizations can proactively fortify their digital defenses, mitigating the risk of unauthorized access and potential data breaches. Linear SVC model performs the best with F1-score of 0.64. 
